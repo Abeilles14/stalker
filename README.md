@@ -2,8 +2,8 @@
 
 `Stalker` **is our dynamic object tracking algorithm**
 
-Works in conjunction with GCOM and NGINX to fix gimbal on a target object.
-Tracks target object's global position through image metadata.
+Stalker is our dynamic object tracking algorithm. Works in conjunction with uas_control_system to send xbox controller commands to rover, and GCOM and NGINX to fix gimbal on a target object.  
+Tracks target object's global position through image metadata.  
 
 ****Connections****
 
