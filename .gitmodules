@@ -1,0 +1,3 @@
+[submodule "SkyStalker/uas_control_system"]
+	path = SkyStalker/uas_control_system
+	url = https://github.com/Abeilles14/uas_control_system.git
